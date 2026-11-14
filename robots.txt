@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tianhu-studio.github.io/sitemap.xml
